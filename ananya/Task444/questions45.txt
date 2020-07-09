@@ -1,0 +1,21 @@
+a) what is meant by term fork and clone?
+ans)fork is creating a copy of the repository and the repository remains in aur github account, and cloning a repository is copied to out computer 
+
+b)what are the branches of github?
+ans)the github manages the timeline when more than one person is working on the project and making changes by using branches , the branches in 
+github are-
+the first default branch is master branch keeps moving forward as you keep making changes.
+
+c)what is PR?
+ans)PR is a pull request taht shows the changes yoyu have made to the other person's repository a pull request is sent and then you are free to 
+make changes to that repositoy and then after commiting your changes you van push it to your github for others to see.
+
+d)can we delete the master branch if not why?
+ans)no we can't delete the master branch because it is the default branch and is the main branch so it can't be deleted ,and still if you want it
+to be deleted we need to change our github repositoery and github name.
+
+e)how can we delete a branch?
+ans)if we want to delete it locally we can delete it only after puched and merged, and we use -d if we are forced to delete it .
+and for deleting a branch remotely use command git push <origion>-deletion <remoteBranchName>.
+all the answers are here
+all the answers of task 3 are here
