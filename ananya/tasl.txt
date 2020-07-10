@@ -29,4 +29,8 @@ commit are already staged.
 
 e - can we leave a commit message as blank?
 ans - yes we can leave the commit message empty it is not necessary to add a message to the commit box,
-until and unless you want a specific message to be given or specified there.
+until and unless you want a specific message to be given or specifi
+
+ed there.
+final work done
+done;
