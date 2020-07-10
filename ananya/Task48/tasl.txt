@@ -1,6 +1,6 @@
-TASK 2:
-Q): drop the ans to the following queestions
-a-how git overflow works?
+
+Q): answer the  following queestions
+a-what is the working of a git overflow?i
 ans - git overflow is basically a procedure in which file undergoes three stages:
 1.here the git clone command will create a locker repository in workspace .
 2.add - it is to add a file from the workspace to the index after that the file is staged.
@@ -29,8 +29,4 @@ commit are already staged.
 
 e - can we leave a commit message as blank?
 ans - yes we can leave the commit message empty it is not necessary to add a message to the commit box,
-until and unless you want a specific message to be given or specifi
-
-ed there.
-final work done
-done;
+until and unless you want a specific message to be given or specified there.

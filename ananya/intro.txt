@@ -1,5 +1,12 @@
 hi, my name is ANANYA MEHRA
+<<<<<<< HEAD
 i am a computer science at Dit University
-im very mush interested in githhub
-im very much intersted in ai and ml
+im very mush interested in github
+im very much intersted in aii and ml
 i love my country very much;
+=======
+i am a computer science at Dit University.
+im very mush interested in github
+im very much intersted in aii and ml 
+i love my country very much;
+>>>>>>> newest-branch
