@@ -1,6 +1,7 @@
 hi, my name is ANANYA MEHRA
 <<<<<<< HEAD
 i am a computer science at Dit University
+<<<<<<< HEAD
 im very mush interested in github
 im very much intersted in aii and ml
 i love my country very much;
@@ -10,3 +11,8 @@ im very mush interested in github
 im very much intersted in aii and ml 
 i love my country very much;
 >>>>>>> newest-branch
+=======
+im very interested in ml and ai
+im learning gitbash
+i love uttrakhand very much
+>>>>>>> ff624bcf85a4ffc1f1ecd32d938bcdb3c0659e21
