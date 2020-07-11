@@ -1,7 +1,7 @@
-#Introduction file
-##file regarding github and gitbash
-+ my name is ANANYA MEHRA
-+ i am a computer science student at Dit UNiversity(Dehradun)
++ ##Introduction
+ + ##file regarding github and gitbash
++ my name is **ANANYA MEHRA**
++ i am a computer science student at **Dit UNiversity(Dehradun)**
 + * my interest lies in ml and deep learning 
 + *github is also helping me to explore more 
 +'''one of my hobies is travelling
